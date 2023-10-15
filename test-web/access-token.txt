@@ -1,0 +1,1 @@
+http://localhost:8080/callback?state=ATR63sUR58DV_u320iiKKxyP8ERxEvBckWeFy4OKxMg=&code=4/0AfJohXkRSBPwGm9wE0MERqUYloJMvYDaxzbpmTqayNMV3LufuCgH3FBjuiJKUat-HpZDcw&scope=email profile openid https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email&authuser=0&prompt=consent
